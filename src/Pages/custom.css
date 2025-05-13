@@ -1,0 +1,10 @@
+/* custom.css */
+.slick-prev,
+.slick-next {
+  display: none !important; /* Hide arrows */
+}
+
+.slick-dots li button:before {
+  color: white !important; /* Dot color */
+  font-size: 12px; /* Dot size */
+}
